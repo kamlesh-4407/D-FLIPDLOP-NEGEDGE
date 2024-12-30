@@ -45,6 +45,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 **PROGRAM**
 
 Developed by: Kamlesh.y
+
 RegisterNumber:24003690
 ```
 module DFLIPFLOPNEGEDGE(D,Clock,reset,Q);
@@ -66,9 +67,9 @@ endmodule
 
 **TIMING DIAGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/e7844993-6202-4e7e-aea4-adb569272de0)
+![image](https://github.com/user-attachments/assets/a0bb4d2d-c73c-49ef-843a-3e1b672a01d0)
 
 
 
-**RESULTS**
+**RESULT**
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
